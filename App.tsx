@@ -87,7 +87,8 @@ const App: React.FC = () => {
           <div 
             className="absolute inset-0 bg-cover bg-center z-0 scale-105 animate-slow-pan"
             style={{ 
-              backgroundImage: `url('https://images.unsplash.com/photo-1552083375-1447ce886485?auto=format&fit=crop&w=1200&q=70')`,
+              backgroundImage: `url('
+https://images.unsplash.com/photo-1555475809-0cc59e0f1a6c?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDZ8fHxlbnwwfHx8fHw%3D')`,
             }}
           >
             <div className="absolute inset-0 bg-[var(--olive-dark)]/40 backdrop-blur-[1px]"></div>
